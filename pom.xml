@@ -33,6 +33,13 @@
 			<artifactId>h2</artifactId>
 			<scope>runtime</scope>
 		</dependency>
+		<!--	stripe api-->
+		<dependency>
+			<groupId>com.stripe</groupId>
+			<artifactId>stripe-java</artifactId>
+			<version>22.3.0</version>
+		</dependency>
+		<!--	stripe api-->
 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
